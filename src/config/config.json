@@ -1,0 +1,42 @@
+{
+  "development": {
+    "username": "metacare4u",
+    "password": "metacare4u",
+    "database": "metacare4u",
+    "host": "166.62.10.140",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "dialectOptions": {
+      "useUTC": false,
+      "dateStrings": true,
+      "typeCast": true
+    }
+    
+  },
+  "test": {
+    "username": "test_vegroute",
+    "password": "[-oI}aTTE.cf",
+    "database": "test_vegroute",
+    "host": "184.168.109.252",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "dialectOptions": {
+      "useUTC": false,
+      "dateStrings": true,
+      "typeCast": true
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "dialectOptions": {
+      "useUTC": false,
+      "dateStrings": true,
+      "typeCast": true
+    }
+  }
+}

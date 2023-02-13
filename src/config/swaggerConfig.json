@@ -1,0 +1,12 @@
+{
+    "local": {
+        "url": "http://localhost:8081/api/v1/",
+        "description": "Local Server",
+        "title": "Local server"
+    },
+    "production": {
+        "url": "https://vegroute.herokuapp.com/api/v1/",
+        "description": "Heroku Server",
+        "title": "Heroku Server"
+    }
+}
